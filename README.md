@@ -51,3 +51,7 @@ Here is a comparison between MobileNet and VGG-16:
 - Mask R-CNN will be trained further using augmented data for robust instance segmentation.
 - Exploration of ensemble models and advanced data augmentation techniques.
 - Deployment in clinical settings for real-time malaria diagnostics.
+
+## Contributors
+- Antonela Tamagnini
+- Aayush Sangani
