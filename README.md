@@ -38,7 +38,7 @@ This project focuses on improving malaria diagnosis through advanced deep learni
 - Mask R-CNN showed improved detection and segmentation of cells, allowing for more precise diagnostics.
 - Faster R-CNN and VGG16 were utilized to further enhance model performance for object detection and classification, respectively.
 
-This plot shows the training and validation loss over 10 epochs for Faster R-CNN
+This plot shows the training and validation loss over 10 epochs for Faster R-CNN:
 
 <img src="images/faster-rcnn-graph.png" alt="Training and Validation Loss over Epochs for the Faster R-CNN Model" width="700"/>
 
