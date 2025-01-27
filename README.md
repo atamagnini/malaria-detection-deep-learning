@@ -1,5 +1,9 @@
 # Malaria Cell Morphology Analysis and Subtype Classification using Deep Learning
-## 
+
+## Course Information
+
+This project was completed as part of the Deep Learning (CS 541) course in Fall 2024 at Worcester Polytechnic Institute (WPI). The course covered advanced topics in deep learning, including neural network architectures, object detection, and image segmentation.
+
 ## Description
 
 This project focuses on improving malaria diagnosis through advanced deep learning techniques. The goal is to detect and classify malaria cell types, both infected and uninfected, using a combination of Mask R-CNN for instance segmentation and MobileNet for multi-class classification. The pipeline also includes Faster R-CNN for object detection, VGG16 for classification, and U-Net for data augmentation to improve model robustness.
